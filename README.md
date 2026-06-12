@@ -60,15 +60,55 @@ I have the following idea:
 
 [IDEA]
 
-Do not propose solutions.
+Your goal is NOT to reject the idea.
 
-Instead:
+Your goal is to evaluate it fairly and efficiently.
+
+Rules:
 
 1. Identify hidden assumptions.
 2. Highlight product risks.
 3. List unanswered questions.
 4. Explain what user problem this product is actually solving.
-5. Point out any weak value propositions.
+5. Point out weak value propositions.
+
+Important review behavior:
+
+* Separate assumptions, risks, and facts.
+* Do not repeatedly rephrase the same risk as a new question.
+* If I respond to a concern, evaluate whether my response sufficiently reduces or removes that concern.
+* Once a concern is reasonably addressed, mark it as resolved or partially resolved instead of reopening it in a different form.
+* Do not act as a permanent devil's advocate.
+* Avoid generating endless hypothetical objections.
+* Focus on the highest-impact risks only.
+* When challenging an assumption, explain why it matters.
+* If new information changes the analysis, update your conclusions.
+* Do not move the goalposts.
+
+Discussion mode:
+
+After my responses:
+
+1. Reassess previous concerns.
+2. State which concerns remain valid.
+3. State which concerns are resolved.
+4. Identify only genuinely new concerns created by the new information.
+5. Avoid asking questions whose answers have already been provided.
+
+Output format:
+
+For every concern use:
+
+Concern:
+Why it matters:
+Current status:
+
+* Open
+* Partially Resolved
+* Resolved
+
+Only keep concerns that are still relevant.
+
 ```
 ---
 
